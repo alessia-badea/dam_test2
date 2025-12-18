@@ -1,25 +1,25 @@
 [
 {
   "townName": "Bucharest",
-  "postalCode": "050505",
+  "postalCode": 050505,
   "noOfPeople": 3000000,
   "attestationDate": "2020-12-30"
 },
 {
   "townName": "Cluj",
-  "postalCode": "060606",
+  "postalCode": 060606,
   "noOfPeople": 1000000,
   "attestationDate": "2021-12-30"
 },
 {
   "townName": "Iasi",
-  "postalCode": "070707",
+  "postalCode": 070707,
   "noOfPeople": 600000,
   "attestationDate": "2022-12-30"
 },
 {
   "townName": "Sibiu",
-  "postalCode": "080808",
+  "postalCode": 080808,
   "noOfPeople": 300000,
   "attestationDate": "2023-12-30"
 }
